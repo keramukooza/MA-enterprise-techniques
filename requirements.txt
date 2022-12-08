@@ -1,7 +1,7 @@
 antlr4-python3-runtime==4.7.1
 astroid==2.0.4
 blinker==1.4
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 commando==1.0.0
 docutils==0.14
